@@ -1,6 +1,9 @@
 # Chenta Transmission Indonesia
 
 Website for PT. Chenta Transmission Indonesia  
+
+Check it out here : [Chenta Transmission Indonesia Website](https://rynaldi95.github.io/cti-website)  
+
 Created with [Mobirise](https://mobirise.com/)  
 Using a lot of custom extensions from [witsec](https://www.witsec.nl/) - [Github](https://github.com/witsec):
 * [Code Editor](https://www.witsec.nl/extension-code-editor.html)

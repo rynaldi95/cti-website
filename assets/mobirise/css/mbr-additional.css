@@ -2884,8 +2884,10 @@ a {
   text-align: center;
   color: #000000;
 }
-.cid-tEGGsvkRlE .image-wrapper {
-  width: 100%;
+.cid-tEGGsvkRlE .image-wrapper img {
+  width: auto;
+  margin-left: auto;
+  margin-right: auto;
 }
 .cid-tEGGsvkRlE P {
   text-align: center;
